@@ -1,0 +1,117 @@
+body{
+     background-color:  hsl(0, 0%, 100%);
+
+}
+
+.no img{
+    width:300px;
+    height:300px;
+   float: right;
+   margin-bottom: 20px;
+}
+.no1{
+   width:200px;
+   height:300px;
+   display: flex;
+    flex-direction: row;
+    margin-left:20px; 
+}
+.no1 img{
+     padding: 5px 20px;
+
+}
+h1{
+    margin-left: 40px;
+}
+p{
+ margin-left:40px;
+ font-family: 'Barlow Condensed', sans-serif;
+ color: hsl(221, 23%, 58%);
+}
+h3{
+   margin-left: 40px;
+   
+}
+.logo{
+   background-color:hsl(22, 89%, 52%); 
+   border:2px solid hsl(198, 28%, 93%);
+   padding:10px; 
+   display: flex;
+   margin-top: 40px;
+   justify-content:space-around;
+   width: 50px;
+   
+}
+button{
+     background-color: hsl(22, 89%, 52%);
+     width:180px;
+     height: 40px;
+     border-radius:5px;
+     border: 2px solid hsl(22, 89%, 52%);
+     width:180px;
+     height: 40px;
+     color: white;
+     margin-left:20px;
+     padding:5px 20px;
+     margin-bottom:20px;
+
+}
+h7{
+   margin-left: 20px;
+
+}
+.footer{
+   display: flex;
+   justify-content: space-around;
+}
+h6{
+   border: 2px solid hsl(198, 28%, 93%);
+   width:100px;
+   height: 30px;
+   background-color:hsl(198, 28%, 93%);
+   text-align: center;
+   border-radius:5px;
+   margin-left: 90%;
+}
+.graph{
+   display: flex;
+   justify-content:space-around;
+}
+.icon{
+    background-color:hsl(22, 89%, 52%); 
+   border:2px solid hsl(198, 28%, 93%);
+   padding:10px; 
+   display: flex;
+   margin-top: 40px;
+   justify-content:space-around;
+   width: 50px;
+   
+    
+
+}
+.battery{
+    background-color:hsl(22, 89%, 52%); 
+   border:2px solid hsl(198, 28%, 93%);
+   padding:10px; 
+   display: flex;
+   margin-top: 40px;
+   justify-content:space-around;
+   width: 50px;
+   
+
+   
+}
+.light{
+    background-color:hsl(22, 89%, 52%); 
+   border:2px solid hsl(198, 28%, 93%);
+   padding:10px; 
+   display: flex;
+   margin-top: 40px;
+   justify-content:space-around;
+   width: 50px;
+}
+.all{
+    display: flex;
+    justify-content: space-around;
+
+}
